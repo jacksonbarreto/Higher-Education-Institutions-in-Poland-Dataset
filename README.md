@@ -1,4 +1,4 @@
-# Higher-Education-Institutions-in-Poland-Dataset
+# Higher Education Institutions in Poland Dataset
 This repository contains a dataset of higher education institutions in Poland. The dataset comprises 131 public higher education institutions and 216 private higher education institutions in Poland. The data was collected on 24/11/2022. 
 This dataset was compiled in response to a cybersecurity investigation of Poland's higher education institutions' websites [1]. The data is being made publicly available to promote open science principles [2].
 
