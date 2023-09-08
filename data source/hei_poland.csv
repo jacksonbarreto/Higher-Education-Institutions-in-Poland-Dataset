@@ -1,0 +1,348 @@
+Id,Region,Name,Name_EN,Category,Url
+1,dolnośląskie,Uniwersytet Wrocławski,University of Wrocław,Public,http://www.uni.wroc.pl/
+2,dolnośląskie,Politechnika Wrocławska,Wrocław University of Science and Technology,Public,http://www.pwr.wroc.pl/
+3,dolnośląskie,Uniwersytet Ekonomiczny we Wrocławiu,Wroclaw University of Economics and Business,Public,https://www.ue.wroc.pl/
+4,dolnośląskie,Uniwersytet Przyrodniczy we Wrocławiu,Wrocław University of Environmental and Life Sciences,Public,https://upwr.edu.pl/
+5,dolnośląskie,Akademia Wychowania Fizycznego im. Polskich Olimpijczyków we Wrocławiu,University of Health and Sport Sciences in Wrocław,Public,http://www.awf.wroc.pl/
+6,dolnośląskie,Papieski Wydział Teologiczny we Wrocławiu,Pontifical Faculty of Theology in Wroclaw,Public,http://www.pwt.wroc.pl/
+7,dolnośląskie,Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu,Wroclaw Medical University,Public,https://www.umw.edu.pl/pl
+8,dolnośląskie,Akademia Muzyczna im. Karola Lipińskiego,The Karol Lipiński Academy of Music in Wrocław,Public,http://www.amuz.wroc.pl/
+9,dolnośląskie,Akademia Sztuk Pięknych im. Eugeniusza Gepperta,The Eugeniusz Geppert Academy of Art and Design in Wroclaw,Public,http://www.asp.wroc.pl/
+10,dolnośląskie,Akademia Wojsk Lądowych,Military University of Land Forces,Public,https://www.wojsko-polskie.pl/awl/
+11,dolnośląskie,Karkonoska Akademia Nauk Stosowanych w Jeleniej Górze,Karkonosze University of Applied Sciences in Jelenia Góra,Public,https://kans.pl/
+12,dolnośląskie,Państwowa Wyższa Szkoła Zawodowa w Głogowie,State University of Applied Sciences in Głogów,Public,https://pwsz.glogow.pl/
+13,dolnośląskie,Collegium Witelona Uczelnia Państwowa,Witelon Collegium State University,Public,http://www.pwsz.legnica.edu.pl/
+14,dolnośląskie,Akademia Nauk Stosowanych Angelusa Silesiusa,Angelus Silesius University of Applied Sciences,Public,https://www.ans.edu.pl/
+15,kujawsko-pomorskie,Uniwersytet Mikołaja Kopernika w Toruniu,Nicolaus Copernicus University in Toruń,Public,http://www.uni.torun.pl/
+16,kujawsko-pomorskie,Uniwersytet Kazimierza Wielkiego w Bydgoszczy,Kazimierz Wielki University in Bydgoszcz,Public,http://www.ukw.edu.pl/
+17,kujawsko-pomorskie,Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich,Bydgoszcz University of Science and Technology,Public,https://www.utp.edu.pl/pl/
+18,kujawsko-pomorskie,Akademia Muzyczna im. Feliksa Nowowiejskiego,The Feliks Nowowiejski Academy of Music,Public,http://www.amuz.bydgoszcz.pl/
+19,kujawsko-pomorskie,Państwowa Akademia Nauk Stosowanych we Włocławku,The State Academy of Applied Sciences in Włocławek,Public,https://puz.wloclawek.pl/
+20,lubelskie,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,Maria Curie-Sklodowska University in Lublin,Public,http://www.umcs.lublin.pl/
+21,lubelskie,Politechnika Lubelska,Lublin University of Technology,Public,http://www.pollub.pl/
+22,lubelskie,Uniwersytet Przyrodniczy w Lublinie,University of Life Sciences in Lublin,Public,https://up.lublin.pl/
+23,lubelskie,Katolicki Uniwersytet Lubelski Jana Pawła II w Lublinie,Catholic University of Lublin,Public,https://www.kul.pl/
+24,lubelskie,Uniwersytet Medyczny w Lublinie,The Medical University of Lublin,Public,https://www.umlub.pl/
+25,lubelskie,Lotnicza Akademia Wojskowa,Polish Air Force University,Public,https://www.wojsko-polskie.pl/law/
+26,lubelskie,Akademia Bialska Nauk Stosowanych im. Jana Pawła II,John Paul II University of Applied Sciences in Biała Podlaska,Public,http://www.pswbp.pl/
+27,lubelskie,Państwowa Akademia Nauk Stosowanych w Chełmie,The State School of Higher Education in Chełm,Public,https://panschelm.edu.pl/
+28,lubelskie,Akademia Zamojska,The Academy of Zamość,Public,http://pwszzamosc.pl/
+29,lubuskie,Uniwersytet Zielonogórski,University of Zielona Góra,Public,http://www.uz.zgora.pl/
+30,lubuskie,Akademia im. Jakuba z Paradyża,The Jacob of Paradies University,Public,http://www.pwsz.pl/
+31,łódzkie,Uniwersytet Łódzki,University of Łódź,Public,http://www.uni.lodz.pl/
+32,łódzkie,Politechnika Łódzka,Lodz University of Technology,Public,http://www.p.lodz.pl/
+33,łódzkie,Uniwersytet Medyczny w Łodzi,The Medical University of Lodz,Public,https://umed.pl/
+34,łódzkie,Akademia Muzyczna im. Grażyny i Kiejstuta Bacewiczów,University of Music in Lodz,Public,http://www.amuz.lodz.pl/
+35,łódzkie,Akademia Sztuk Pięknych im. Władysława Strzemińskiego,Strzeminski Academy of Art in Lodz,Public,http://www.asp.lodz.pl/
+36,łódzkie,"Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. Leona Schillera","State Film, Television and Theater School named after Leon Schiller in Łódź",Public,http://www.filmschool.lodz.pl/
+37,łódzkie,Akademia Nauk Stosowanych Stefana Batorego,Stefan Batory Academy of Applied Sciences,Public,https://www.pusb.pl/
+38,małopolskie,Politechnika Krakowska im. Tadeusza Kościuszki,Cracow University of Technology,Public,http://www.pk.edu.pl/
+39,małopolskie,Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie,AGH University of Science and Technology,Public,http://www.agh.edu.pl/
+40,małopolskie,Uniwersytet Jagielloński w Krakowie,Jagiellonian University in Kraków,Public,http://www.uj.edu.pl/
+41,małopolskie,Uniwersytet Ekonomiczny w Krakowie,Krakow University of Economics,Public,https://uek.krakow.pl/
+42,małopolskie,Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie,Pedagogical University of Krakow,Public,http://www.ap.krakow.pl/
+43,małopolskie,Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie,University of Agriculture in Kraków,Public,https://urk.edu.pl/
+44,małopolskie,Akademia Wychowania Fizycznego im. Bronisława Czecha w Krakowie,University of Physical Education in Krakow,Public,http://www.awf.krakow.pl/
+45,małopolskie,Akademia Ignatianum w Krakowie,Jesuit University Ignatianum in Krakow,Public,http://www.ignatianum.edu.pl/
+46,małopolskie,Uniwersytet Papieski Jana Pawła II,The Pontifical University of John Paul II in Kraków,Public,http://www.pat.krakow.pl/
+47,małopolskie,Akademia Muzyczna im. Krzysztofa Pendereckiego,Krzysztof Penderecki Academy of Music in Kraków,Public,http://www.amuz.krakow.pl/
+48,małopolskie,Akademia Sztuk Pięknych im. Jana Matejki,Academy of Fine Arts in Kraków,Public,http://www.asp.krakow.pl/
+49,małopolskie,Akademia Sztuk Teatralnych im. Stanisława Wyspiańskiego w Krakowie,AST National Academy of Theatre Arts in Kraków,Public,http://www.ast.krakow.pl/
+50,małopolskie,Małopolska Uczelnia Państwowa im. rotmistrza Witolda Pileckiego w Oświęcimiu,Malopolska State University named after Captain Witold Pilecki in Oswiecim,Public,https://www.uczelniaoswiecim.edu.pl/
+51,małopolskie,Akademia Nauk Stosowanych w Nowym Sączu,State University of Applied Sciences in Nowy Sacz,Public,http://www.pwsz-ns.edu.pl/
+52,małopolskie,Akademia Nauk Stosowanych w Tarnowie,University of Applied Sciences in Tarnow,Public,https://anstar.edu.pl/
+53,małopolskie,Podhalańska Państwowa Wyższa Szkoła Zawodowa w Nowym Targu,Podhale State Vocational University in Nowy Targ,Public,https://ppuz.edu.pl/
+54,mazowieckie,Uniwersytet Warszawski,University of Warsaw,Public,http://www.uw.edu.pl/
+55,mazowieckie,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,Cardinal Stefan Wyszyński University in Warsaw,Public,http://www.uksw.edu.pl/
+56,mazowieckie,Politechnika Warszawska,Warsaw University of Technology,Public,http://www.pw.edu.pl/
+57,mazowieckie,Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu,Kazimierz Pulaski University of Technology and Humanities in Radom,Public,http://www.pr.radom.pl/
+58,mazowieckie,Szkoła Główna Handlowa w Warszawie,SGH Warsaw School of Economics,Public,http://www.sgh.waw.pl/
+59,mazowieckie,Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej (Warszawa),The Maria Grzegorzewska University,Public,http://www.aps.edu.pl/
+60,mazowieckie,Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach,Siedlce University of Natural Sciences and Humanities,Public,http://www.uph.edu.pl/
+61,mazowieckie,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Warsaw University of Life Sciences,Public,http://www.sggw.waw.pl/
+62,mazowieckie,Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie,Józef Piłsudski University of Physical Education in Warsaw,Public,http://www.awf.edu.pl/
+63,mazowieckie,Chrześcijańska Akademia Teologiczna w Warszawie,Christian Theological Academy in Warsaw,Public,http://www.chat.edu.pl/
+64,mazowieckie,Papieski Wydział Teologiczny w Warszawie,Pontifical Faculty of Theology in Warsaw,Public,http://www.pwtw.pl/
+65,mazowieckie,Warszawski Uniwersytet Medyczny,Medical University of Warsaw,Public,https://www.wum.edu.pl/
+66,mazowieckie,Uniwersytet Muzyczny Fryderyka Chopina,The Frederic Chopin University of Music,Public,http://www.chopin.edu.pl/
+67,mazowieckie,Akademia Sztuk Pięknych w Warszawie,Academy of Fine Arts in Warsaw,Public,http://www.asp.waw.pl/
+68,mazowieckie,Akademia Teatralna im. Aleksandra Zelwerowicza,The Aleksander Zelwerowicz National Academy of Dramatic Art in Warsaw,Public,http://www.at.edu.pl/
+69,mazowieckie,Akademia Sztuki Wojennej,The War Studies University ,Public,https://www.wojsko-polskie.pl/aszwoj/
+70,mazowieckie,Wojskowa Akademia Techniczna,Military University of Technology,Public,https://www.wojsko-polskie.pl/wat/
+71,mazowieckie,Akademia Mazowiecka w Płocku,The Mazovian Academy in Płock,Public,https://mazowiecka.edu.pl/
+72,mazowieckie,Państwowa Uczelnia Zawodowa im. Ignacego Mościckiego w Ciechanowie,State Higher Vocational School in Ciechanów,Public,https://puzim.edu.pl/
+73,opolskie,Uniwersytet Opolski,University of Opole,Public,http://www.uni.opole.pl/
+74,opolskie,Politechnika Opolska,Opole University of Technology,Public,http://www.po.opole.pl/
+75,opolskie,Państwowa Akademia Nauk Stosowanych w Nysie,The State Academy of Applied Sciences in Nysa,Public,https://pans.nysa.pl/
+76,podkarpackie,Uniwersytet Rzeszowski,University of Rzeszów,Public,http://ur.edu.pl/
+77,podkarpackie,Politechnika Rzeszowska im. Ignacego Łukasiewicza,Ignacy Łukasiewicz Rzeszow University of Technology,Public,https://w.prz.edu.pl/
+78,podkarpackie,Państwowa Uczelnia Zawodowa im. prof. Stanisława Tarnowskiego w Tarnobrzegu,State Higher Vocational School Memorial of Prof. Stanislaw Tarnowski in Tarnobrzeg,Public,https://puz.tarnobrzeg.pl/
+79,podkarpackie,Karpacka Państwowa Uczelnia w Krośnie,Carpathian State College in Krosno,Public,https://kpu.krosno.pl/
+80,podkarpackie,Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu,State Higher School of Technology and Economics in Jaroslaw,Public,https://www.pwste.edu.pl/
+81,podkarpackie,Państwowa Akademia Nauk Stosowanych w Przemyślu,The State Academy of Applied Sciences in Przemyśl,Public,https://pwsw.pl/pl/
+82,podkarpackie,Uczelnia Państwowa im. Jana Grodka w Sanoku,Jan Grodek State University in Sanok,Public,https://up-sanok.edu.pl/
+83,podlaskie,Uniwersytet w Białymstoku,University of Białystok,Public,http://www.uwb.edu.pl/
+84,podlaskie,Politechnika Białostocka,Bialystok University of Technology,Public,https://pb.edu.pl/kandydaci/
+85,podlaskie,Uniwersytet Medyczny w Białymstoku,Medical University of Bialystok,Public,https://www.umb.edu.pl/
+86,podlaskie,Państwowa Uczelnia Zawodowa im. prof. Edwarda F. Szczepanika w Suwałkach,State Higher Vocational School in Suwałki,Public,https://www.puz.suwalki.pl/
+87,podlaskie,Akademia Nauk Stosowanych w Łomży,Lomza State University of Applied Sciences,Public,https://ansl.edu.pl/
+88,pomorskie,Uniwersytet Gdański,University of Gdańsk,Public,http://www.univ.gda.pl/
+89,pomorskie,Politechnika Gdańska,Gdańsk University of Technology,Public,http://www.pg.gda.pl/
+90,pomorskie,Akademia Pomorska w Słupsku,Pomeranian University in Slupsk,Public,http://www.apsl.edu.pl/
+91,pomorskie,Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku,Gdansk University of Physical Education and Sport,Public,http://www.awf.gda.pl/
+92,pomorskie,Gdański Uniwersytet Medyczny,Medical University of Gdańsk,Public,https://gumed.edu.pl/
+93,pomorskie,Akademia Muzyczna im. Stanisława Moniuszki,Stanisław Moniuszko Academy of Music in Gdańsk,Public,http://www.amuz.gda.pl/
+94,pomorskie,Akademia Sztuk Pięknych w Gdańsku,Academy of Fine Arts in Gdańsk,Public,http://www.asp.gda.pl/
+95,pomorskie,Akademia Marynarki Wojennej,Polish Naval Academy,Public,https://www.amw.gdynia.pl/
+96,śląskie,Uniwersytet Śląski w Katowicach,University of Silesia in Katowice,Public,http://www.us.edu.pl/
+97,śląskie,Akademia Techniczno-Humanistyczna w Bielsku -Białej,ATH University of Bielsko-Biala,Public,http://www.ath.bielsko.pl/
+98,śląskie,Politechnika Częstochowska,Czestochowa University of Technology,Public,http://www.pcz.pl/
+99,śląskie,Politechnika Śląska,Silesian University of Technology,Public,http://www.polsl.pl/
+100,śląskie,Uniwersytet Ekonomiczny w Katowicach,University of Economics in Katowice,Public,https://www.ue.katowice.pl/
+101,śląskie,Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza w Częstochowie,Jan Dlugosz University in Czestochowa,Public,http://www.ujd.edu.pl/
+102,śląskie,Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach,Academy of Physical Education in Katowice,Public,http://www.awf.katowice.pl/
+103,śląskie,Śląski Uniwersytet Medyczny,Medical University of Silesia,Public,https://sum.edu.pl/
+104,śląskie,Akademia Muzyczna im. Karola Szymanowskiego,The Karol Szymanowski Academy of Music in Katowice,Public,http://www.am.katowice.pl/
+105,śląskie,Akademia Sztuk Pięknych w Katowicach,Academy of Fine Arts in Katowice,Public,http://www.asp.katowice.pl/
+106,śląskie,Akademia Nauk Stosowanych w Raciborzu,The State Academy of Applied Sciences in Racibórz,Public,https://akademiarac.edu.pl/
+107,świętokrzyskie,Uniwersytet Jana Kochanowskiego w Kielcach,Jan Kochanowski University of Kielce,Public,http://www.pu.kielce.pl/
+108,świętokrzyskie,Politechnika Świętokrzyska w Kielcach,Kielce University of Technology,Public,http://www.tu.kielce.pl/
+109,świętokrzyskie,Instytut Teologiczny im. Bł. Wincentego Kadłubka w Sandomierzu,Wincenty Kadłubek Theological Institute in Sandomierz,Public,http://www.instteol.sandomierz.opoka.org.pl/
+110,warmińsko-mazurskie,Uniwersytet Warmińsko-Mazurski w Olsztynie,University of Warmia and Mazury in Olsztyn,Public,http://www.uwm.edu.pl/
+111,warmińsko-mazurskie,Akademia Nauk Stosowanych w Elblągu,The State Academy of Applied Sciences in Elbląg,Public,https://ans-elblag.pl/
+112,wielkopolskie,Uniwersytet im. Adama Mickiewicza w Poznaniu,Adam Mickiewicz University Poznań,Public,http://www.amu.edu.pl/
+113,wielkopolskie,Politechnika Poznańska,Poznań University of Technology,Public,http://www.put.poznan.pl/
+114,wielkopolskie,Uniwersytet Ekonomiczny w Poznaniu,Poznań University of Economics and Business,Public,http://ue.poznan.pl/pl/
+115,wielkopolskie,Uniwersytet Przyrodniczy w Poznaniu,Poznań University of Life Sciences,Public,https://puls.edu.pl/
+116,wielkopolskie,Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu,Poznan University of Physical Education,Public,http://www.awf.poznan.pl/
+117,wielkopolskie,Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu,Poznan University of Medical Sciences,Public,https://www.ump.edu.pl/
+118,wielkopolskie,Akademia Muzyczna im. Ignacego Jana Paderewskiego,The Ignacy Jan Paderewski Academy of Music in Poznań,Public,http://www.amuz.edu.pl/
+119,wielkopolskie,Uniwersytet Artystyczny w Poznaniu im. Magdaleny Abakanowicz,University of the Arts Poznan,Public,http://www.uap.edu.pl/
+120,wielkopolskie,Akademia Nauk Stosowanych im. Stanisława Staszica w Pile,The State Academy of Applied Sciences in Piła,Public,https://ans.pila.pl/
+121,wielkopolskie,Akademia Nauk Stosowanych im. Hipolita Cegielskiego w Gnieźnie Uczelnia Państwowa,The State Academy of Applied Sciences in Gniezno,Public,https://ans-gniezno.edu.pl/
+122,wielkopolskie,Akademia Kaliska im. Prezydenta Stanisława Wojciechowskiego,The President Stanislaw Wojciechowski Calisia University,Public,https://akademia.kalisz.pl/
+123,wielkopolskie,Akademia Nauk Stosowanych w Koninie,The State Academy of Applied Sciences in Konin,Public,https://www.ans.konin.pl/
+124,wielkopolskie,Akademia Nauk Stosowanych im. Jana Amosa Komeńskiego w Lesznie,The State Academy of Applied Sciences in Leszno,Public,https://www.ansleszno.pl/
+125,zachodniopomorskie,Uniwersytet Szczeciński,University of Szczecin,Public,http://www.univ.szczecin.pl/
+126,zachodniopomorskie,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,West Pomeranian University of Technology in Szczecin,Public,http://www.zut.edu.pl/
+127,zachodniopomorskie,Politechnika Koszalińska,Koszalin University of Technology,Public,http://www.tu.koszalin.pl/
+128,zachodniopomorskie,Pomorski Uniwersytet Medyczny w Szczecinie,Pomeranian Medical University in Szczecin,Public,https://www.pum.edu.pl/
+129,zachodniopomorskie,Akademia Sztuki w Szczecinie,The Academy of Art in Szczecin,Public,http://www.akademiasztuki.eu/
+130,zachodniopomorskie,Państwowa Wyższa Szkoła Zawodowa w Koszalinie,State University of Applied Sciences in Koszalin,Public,https://www.pwsz-koszalin.pl/
+131,zachodniopomorskie,Akademia Nauk Stosowanych w Wałczu,The State Academy of Applied Sciences in Wałcz,Public,https://www.pwsz.eu/
+132,dolnośląskie,Wyższa Szkoła Zarządzania i Przedsiębiorczości z siedzibą w Wałbrzychu,Higher School of Management and Entrepreneurship in Walbrzych,Private,https://wwszip.pl/
+133,dolnośląskie,Wrocławska Akademia Biznesu w Naukach Stosowanych,Wroclaw Business University of Applied Sciences,Private,https://wab.edu.pl/
+134,dolnośląskie,Dolnośląska Szkoła Wyższa z siedzibą we Wrocławiu,University of Lower Silesia,Private,https://www.dsw.edu.pl/
+135,dolnośląskie,"Wyższa Szkoła Zarządzania ""Edukacja"" we Wrocławiu","Higher School of Management ""Education"" in Wroclaw",Private,https://wszedukacja.pl/
+136,dolnośląskie,Wyższa Szkoła Bankowa we Wrocławiu,WSB University in Wrocław,Private,https://www.wsb.pl/
+137,dolnośląskie,Wyższa Szkoła Fizjoterapii we Wrocławiu,Higher School of Physiotherapy in Wroclaw,Private,https://www.wsf.wroc.pl/
+138,dolnośląskie,Międzynarodowa Wyższa Szkoła Logistyki i Transportu we Wrocławiu,The International University of Logistics and Transport in Wrocław,Private,https://www.mwsl.eu/
+139,dolnośląskie,Wyższa Szkoła Kształcenia Zawodowego,Higher School of Vocational Education,Private,https://studia-online.pl/
+140,dolnośląskie,"Wyższa Szkoła Informatyki i Zarządzania ""COPERNICUS"" we Wrocławiu",Copernicus Higher School of Information Technology and Management in Wroclaw,Private,https://www.wsiz.wroc.pl/
+141,dolnośląskie,Uczelnia Jana Wyżykowskiego,Jan Wyzykowski University,Private,https://ujw.pl/
+142,dolnośląskie,Wyższa Szkoła Humanistyczna we Wrocławiu,Higher School of Humanities in Wroclaw,Private,https://humanistyczna.pl/?lang=pl
+143,dolnośląskie,Szkoła Wyższa Rzemiosł Artystycznych i Zarządzania we Wrocławiu,Higher School of Arts and Management in Wroclaw,Private,https://swraiz.pl/
+144,dolnośląskie,Wyższa Szkoła Medyczna w Legnicy z siedzibą w Legnicy,Medical University of Legnica in Legnica,Private,https://www.wsmlegnica.pl/
+145,dolnośląskie,Akademia Nauk Stosowanych we Wrocławiu,The State Academy of Applied Sciences in Wrocław,Private,https://naukistosowane.edu.pl/
+146,dolnośląskie,Wrocławska Wyższa Szkoła Informatyki Stosowanej we Wrocławiu,Wroclaw Higher School of Applied Informatics in Wroclaw,Private,https://horyzont.eu/
+147,dolnośląskie,Ewangelikalna Wyższa Szkoła Teologiczna,Evangelical Theological Seminary,Private,https://ewst.pl/
+148,dolnośląskie,Niepubliczna Wyższa Szkoła Medyczna we Wrocławiu,Non-Public Medical University in Wroclaw,Private,https://www.nwsm.pl/
+149,dolnośląskie,Wyższa Szkoła Sportu,School of Sports Science,Private,https://wszic.pl/
+150,dolnośląskie,Wyższa Szkoła Prawa we Wrocławiu,Law University in Wroclaw,Private,https://www.prawowroclaw.edu.pl/
+151,dolnośląskie,Wyższa Szkoła Medyczna w Kłodzku,Medical University in Kłodzko,Private,https://wsm.klodzko.pl/
+152,dolnośląskie,Collegium Humanum - Szkoła Główna Menedżerska,Collegium Humanum - University of Management,Private,https://humanum.pl/
+153,kujawsko-pomorskie,Kujawska Szkoła Wyższa we Włocławku,Kujawy Higher School in Wloclawek,Private,https://ksw.wloclawek.pl/
+154,kujawsko-pomorskie,Wyższa Szkoła Bankowa w Toruniu,WSB University in Toruń,Private,https://www.wsb.pl/
+155,kujawsko-pomorskie,Kujawsko-Pomorska Szkoła Wyższa w Bydgoszczy,Kujawy and Pomerania University in Bydgoszcz,Private,https://kpsw.edu.pl/
+156,kujawsko-pomorskie,Akademia Kultury Społecznej i Medialnej w Toruniu - Akademia Nauk Stosowanych,The State Academy of Applied Sciences in Toruń,Private,https://wsksim.edu.pl/
+157,kujawsko-pomorskie,Wyższa Szkoła Zarządzania Środowiskiem w Tucholi,College of Environmental Management in Tuchola,Private,https://www.wszs.tuchola.pl/
+158,kujawsko-pomorskie,Kolegium Jagiellońskie – Toruńska Szkoła Wyższa,Jagiellonian College – Torun University,Private,https://kj.edu.pl/en/
+159,kujawsko-pomorskie,Bydgoska Szkoła Wyższa w Bydgoszczy,Bydgoszcz University in Bydgoszcz,Private,https://bsw.edu.pl/
+160,kujawsko-pomorskie,Wyższa Szkoła Gospodarki w Bydgoszczy,College of Economics in Bydgoszcz,Private,https://wsg.byd.pl/
+161,kujawsko-pomorskie,Wyższa Szkoła Nauk o Zdrowiu w Bydgoszczy,Health Sciences University in Bydgoszcz,Private,https://wsnoz.pl/pl/
+162,kujawsko-pomorskie,Wyższa Szkoła Przedsiębiorczości imienia Księcia Kazimierza Kujawskiego z siedzibą w Inowrocławiu,Prince Kazimierz Kujawski School of Entrepreneurship in Inowrocław,Private,https://wsp-inow.pl/
+163,kujawsko-pomorskie,Wyższa Szkoła Demokracji im. ks. Jerzego Popiełuszki w Grudziądzu,Father Jerzy Popiełuszko School of Democracy in Grudziądz,Private,http://wsd.info.pl/
+164,lubelskie,Lubelska Szkoła Wyższa w Rykach,Lublin University in Ryki,Private,https://lswryki.pl/
+165,lubelskie,Wyższa Szkoła Humanistyczno-Ekonomiczna im. J. Zamoyskiego w Zamościu,J. Zamoyski School of Humanities and Economics in Zamość,Private,https://wszh-e.pl/
+166,lubelskie,Wyższa Szkoła Przedsiębiorczości i Administracji w Lublinie,University of Entrepreneurship and Administration in Lublin,Private,https://wspa.pl/
+167,lubelskie,Wyższa Szkoła Ekonomii i Innowacji w Lublinie,University of Economics and Innovation in Lublin,Private,https://www.wsei.lublin.pl/
+168,lubelskie,Wyższa Szkoła Nauk Społecznych z siedzibą w Lublinie,University of Social Sciences in Lublin,Private,https://www.wsns.lublin.pl/
+169,lubelskie,Akademia Nauk Stosowanych Wincentego Pola w Lublinie,The State Academy of Applied Sciences in Lublin,Private,https://akademia-pol.edu.pl/
+170,lubuskie,Wyższa Szkoła Biznesu w Gorzowie Wlkp.,Business School in Gorzow Wielkopolski,Private,https://www.wsb.gorzow.pl/
+171,lubuskie,Wyższa Szkoła Zawodowa w Gorzowie Wielkopolskim,Vocational College in Gorzow Wielkopolski,Private,http://wssz.pl/
+172,lubuskie,Łużycka Szkoła Wyższa im. Jana Benedykta Solfy z siedzibą w Żarach,Jan Benedykt Solfa Lusatian Higher School in Żary,Private,https://lsw.edu.pl/
+173,łódzkie,Akademia Humanistyczno-Ekonomiczna w Łodzi,University of Humanities and Economics in Lodz,Private,https://www.ahe.lodz.pl/
+174,łódzkie,Społeczna Akademia Nauk z siedzibą w Łodzi,University of Social Sciences in Łódź,Private,https://lodz.san.edu.pl/
+175,łódzkie,Szkoła Wyższa Ekonomii i Zarządzania w Łodzi,University of Economics and Management in Łódź,Private,https://www.sweiz.pl/
+176,łódzkie,Wyższa Szkoła Informatyki i Umiejętności z siedzibą w Łodzi,University of Informatics and Skills in Łódź,Private,http://wsinf.edu.pl/
+177,łódzkie,Wyższa Szkoła Finansów i Informatyki im. prof. Janusza Chechlińskiego w Łodzi,Janusz Chechliński University of Finance and Informatics in Łódź,Private,https://wsfi.pl/
+178,łódzkie,Wyższa Szkoła Sztuki i Projektowania w Łodzi,University of Arts and Design in Łódź,Private,https://www.wssip.edu.pl/
+179,łódzkie,Wyższa Szkoła Zawodowa Łódzkiej Korporacji Oświatowej w Łodzi,Higher Vocational School of the Łódź Educational Corporation in Łódź,Private,http://www.wszlko.edu.pl/
+180,łódzkie,Akademia Nauk Stosowanych Gospodarki Krajowej w Kutnie,The State Academy of Applied Sciences in Kutno,Private,https://wsgk.com.pl/
+181,łódzkie,Wschód-Zachód Szkoła Wyższa im. Henryka Jóźwiaka,East-West Higher School named after Henryk Jóźwiak,Private,http://www.wschodzachod.edu.pl/
+182,łódzkie,Wyższa Szkoła Biznesu i Nauk o Zdrowiu w Łodzi,Business and Health Sciences University in Łódź,Private,https://www.wsbinoz.edu.pl/
+183,łódzkie,Uczelnia ASBIRO,ASBIRO University,Private,https://www.asbiro.pl/
+184,łódzkie,Wyższa Szkoła COSINUS w Łodzi,COSINUS Higher School in Łódź,Private,https://ws.cosinus.pl/
+185,łódzkie,Wyższa Szkoła Kosmetyki i Nauk o Zdrowiu w Łodzi,Higher School of Cosmetology and Health Sciences in Łódź,Private,https://www.wyzszaszkolakosmetyki.pl/pl/
+186,łódzkie,Uczelnia Nauk Społecznych,University of Social Sciences,Private,https://www.uns.lodz.pl/
+187,łódzkie,Wyższa Szkoła Bezpieczeństwa Wewnętrznego w Łodzi,Higher School of Internal Security in Łódź,Private,http://wsbw.pl/
+188,małopolskie,Wyższa Szkoła Zarządzania i Bankowości w Krakowie,University of Management and Banking in Krakow,Private,https://www.wszib.edu.pl/
+189,małopolskie,Małopolska Wyższa Szkoła Ekonomiczna z siedzibą w Tarnowie,Malopolska University of Economics in Tarnów,Private,http://www.mwse.edu.pl/
+190,małopolskie,Wyższa Szkoła Ekonomii i Informatyki w Krakowie,University of Economics and Informatics in Krakow,Private,https://wsei.edu.pl/
+191,małopolskie,Wyższa Szkoła Turystyki i Ekologii w Suchej Beskidzkiej,School of Tourism and Ecology in Sucha Beskidzka,Private,https://wste.edu.pl/
+192,małopolskie,Krakowska Akademia im. Andrzeja Frycza Modrzewskiego w Krakowie,Andrzej Frycz Modrzewski Krakow University,Private,https://www.ka.edu.pl/
+193,małopolskie,Krakowska Wyższa Szkoła Promocji Zdrowia w Krakowie,Krakow Higher School of Health Promotion,Private,https://www.kwspz.pl/
+194,małopolskie,Wyższa Szkoła Europejska im. Ks. Józefa Tischnera w Krakowie,European Higher School named after Rev. Józef Tischner in Krakow,Private,https://wse.krakow.pl/
+195,małopolskie,Tarnowska Szkoła Wyższa Akademia Nauk Stosowanych,Tarnów Higher School of Applied Sciences,Private,https://www.tszw.edu.pl/
+196,małopolskie,"Wyższa Szkoła Bezpieczeństwa Publicznego i Indywidualnego ""Apeiron"" w Krakowie","Higher School of Public and Individual Security ""Apeiron"" in Krakow",Private,https://apeiron.edu.pl/
+197,małopolskie,Wyższa Szkoła Biznesu - National Louis Uniwersytet z siedzibą w Nowym Sączu,Business School - National Louis University in Nowy Sącz,Private,https://www.wsb-nlu.edu.pl/
+198,mazowieckie,Warszawska Uczelnia Medyczna im. Tadeusza Koźluka,Tadeusz Koźluk Medical University in Warsaw,Private,https://wumed.edu.pl/
+199,mazowieckie,Akademia Finansów i Biznesu Vistula,Vistula University,Private,https://www.vistula.edu.pl/
+200,mazowieckie,Uczelnia Techniczno-Handlowa im. Heleny Chodkowskiej,Helena Chodkowska Technical and Commercial University,Private,https://www.uth.edu.pl/
+201,mazowieckie,Warszawska Szkoła Zarządzania - Szkoła Wyższa w Warszawie,Warsaw School of Management - Higher School in Warsaw,Private,https://www.wsz-sw.edu.pl/
+202,mazowieckie,Szkoła Wyższa im. Pawła Włodkowica w Płocku,Paweł Włodkowic University in Płock,Private,https://www.wlodkowic.pl/
+203,mazowieckie,Akademia Leona Koźmińskiego w Warszawie,Kozminsky University,Private,https://www.kozminski.edu.pl/pl
+204,mazowieckie,Uczelnia Korczaka - Akademia Nauk Stosowanych,Korczak University - Academy of Applied Sciences,Private,https://uczelniakorczaka.pl/
+205,mazowieckie,Uczelnia Łazarskiego w Warszawie,Lazarski University,Private,https://rekrutacja.lazarski.pl/
+206,mazowieckie,Szkoła Wyższa im. Bogdana Jańskiego w Warszawie,Bogdan Jański University in Warsaw,Private,https://janski.edu.pl/
+207,mazowieckie,Prywatna Wyższa Szkoła Ochrony Środowiska w Radomiu,Private University of Environmental Protection in Radom,Private,http://www.pwsos.pl/
+208,mazowieckie,Wyższa Szkoła Administracji Publicznej w Ostrołęce,Higher School of Public Administration in Ostrołęka,Private,https://wsap.com.pl/
+209,mazowieckie,Menedżerska Akademia Nauk Stosowanych w Warszawie,Managerial Academy of Applied Sciences in Warsaw,Private,https://mans.org.pl/
+210,mazowieckie,Wyższa Szkoła Ekologii i Zarządzania w Warszawie,University of Ecology and Management in Warsaw,Private,https://wseiz.pl/
+211,mazowieckie,Radomska Szkoła Wyższa,Radom University,Private,http://www.rsw.edu.pl/
+212,mazowieckie,Szkoła Główna Turystyki i Hotelarstwa Vistula,Vistula School of Tourism and Hospitality Management,Private,https://www.vistulahospitality.edu.pl/
+213,mazowieckie,Wyższa Szkoła Informatyki Stosowanej i Zarządzania w Warszawie,Warsaw School of Information Technology,Private,https://www.wit.edu.pl/
+214,mazowieckie,SWPS Uniwersytet Humanistycznospołeczny z siedzibą w Warszawie,SWPS University of Social Sciences and Humanities,Private,https://swps.pl/
+215,mazowieckie,Uczelnia Medyczna im. Marii Skłodowskiej - Curie w Warszawie,Maria Skłodowska-Curie Medical University in Warsaw,Private,https://uczelniamedyczna.com.pl/
+216,mazowieckie,Wyższa Szkoła Stosunków Międzynarodowych i Amerykanistyki w Warszawie,College of International and American Studies in Warsaw,Private,https://wssmia.edu.pl/
+217,mazowieckie,Collegium Civitas w Warszawie,Collegium Civitas in Warsaw,Private,https://civitas.edu.pl/pl/
+218,mazowieckie,Europejska Wyższa Szkoła Prawa i Administracji w Warszawie,European Higher School of Law and Administration in Warsaw,Private,https://ewspa.edu.pl/
+219,mazowieckie,Akademia Handlowa Nauk Stosowanych w Radomiu,Business Academy of Applied Sciences in Radom,Private,https://ahns.pl/
+220,mazowieckie,Wyższa Szkoła Biznesu i Zarządzania z siedzibą w Ciechanowie,Business and Management University in Ciechanów,Private,https://wsbiz.edu.pl/
+221,mazowieckie,Wyższa Szkoła Nauk Prawnych i Administracji im. Leona Petrażyckiego z siedzibą w Wołominie,Leon Petrażycki University of Legal and Administrative Sciences in Wołomin,Private,https://pwsz.net/
+222,mazowieckie,Akademia Nauk Stosowanych Mazovia,The State Academy of Applied Sciences Mazovia,Private,https://www.mazovia.edu.pl/
+223,mazowieckie,Wyższa Szkoła Kultury Fizycznej i Turystyki im. Haliny Konopackiej w Pruszkowie,Halina Konopacka University of Physical Culture and Tourism in Pruszków,Private,https://www.wskfit.pl/
+224,mazowieckie,Lingwistyczna Szkoła Wyższa w Warszawie,Linguistic Higher School in Warsaw,Private,https://lingwistyka.edu.pl/
+225,mazowieckie,Warszawska Wyższa Szkoła Informatyki w Warszawie,Warsaw Higher School of Computer Science in Warsaw,Private,https://wwsi.edu.pl/
+226,mazowieckie,Wszechnica Polska Akademia Nauk Stosowanych w Warszawie,Wszechnica - The State Academy of Applied Sciences in Warsaw,Private,https://wszechnicapolska.edu.pl/
+227,mazowieckie,"Wyższa Szkoła Promocji, Mediów i Show Businessu z siedzibą w Warszawie","Higher School of Promotion, Media, and Show Business in Warsaw",Private,https://wsp.pl/
+228,mazowieckie,Uczelnia Łukaszewski,Łukaszewski University,Private,https://www.ulu.edu.pl/
+229,mazowieckie,Collegium Verum,Collegium Verum,Private,https://collegiumverum.pl/
+230,mazowieckie,Warszawska Wyższa Szkoła Biznesu z siedzibą w Warszawie,Warsaw Higher School of Business in Warsaw,Private,https://wwsb.edu.pl/
+231,mazowieckie,Europejska Wyższa Szkoła Biznesu w Warszawie,European Higher School of Business in Warsaw,Private,https://www.euob.eu/uczelnia/
+232,mazowieckie,Wyższa Szkoła Nauk Pedagogicznych,Higher School of Pedagogy,Private,https://wsnp.edu.pl/
+233,mazowieckie,Wyższa Inżynierska Szkoła Bezpieczeństwa i Organizacji Pracy w Radomiu,Higher Engineering School of Safety and Work Organization in Radom,Private,https://wisbiop.pl/
+234,mazowieckie,Warszawska Wyższa Szkoła Humanistyczna im. Bolesława Prusa,Warsaw Higher School of Humanities named after Bolesław Prus,Private,https://wwsh.edu.pl/
+235,mazowieckie,Wyższa Szkoła - Edukacja w Sporcie w Warszawie,Higher School of Education in Sports in Warsaw,Private,https://www.ews.edu.pl/
+236,mazowieckie,Wyższa Szkoła Gospodarki Euroregionalnej im. Alcide De Gasperi w Józefowie,Alcide De Gasperi Euroregional Economy Higher School in Józefów,Private,https://wsge.edu.pl/
+237,mazowieckie,Akademia Ekonomiczno-Humanistyczna w Warszawie,University of Economics and Human Sciences in Warsaw,Private,https://vizja.pl/
+238,mazowieckie,Wyższa Szkoła Inżynierii i Zdrowia w Warszawie,Higher School of Engineering and Health in Warsaw,Private,https://wsiiz.pl/
+239,mazowieckie,Wyższa Szkoła Turystyki i Języków Obcych w Warszawie,Higher School of Tourism and Foreign Languages in Warsaw,Private,https://wstijo.edu.pl/
+240,mazowieckie,Warszawska Wyższa Szkoła Nauk Społecznych im. Rafała Lemkina,Warsaw Higher School of Social Sciences named after Rafał Lemkin,Private,https://fuaw.pl/gdzie-jestesmy/
+241,mazowieckie,Mazowiecka Uczelnia Medyczna w Warszawie,Mazovian Medical University in Warsaw,Private,https://mum.edu.pl/
+242,mazowieckie,Uczelnia Lingwistyczno-Techniczna w Przasnyszu,Linguistic and Technical University in Przasnysz,Private,https://ult.edu.pl/
+243,mazowieckie,Wyższa Szkoła Bankowa w Warszawie,WSB University in Warsaw,Private,https://www.wsb.pl/warszawa/
+244,mazowieckie,"Wyższa Szkoła Biznesu, Mediów i Reklamy","Higher School of Business, Media, and Advertising",Private,https://www.akademiareklamy.edu.pl/
+245,mazowieckie,Wyższa Szkoła Bezpieczeństwa i Ochrony im. Marszałka Józefa Piłsudskiego z siedzibą w Warszawie,Marshal Józef Piłsudski Higher School of Security and Protection in Warsaw,Private,https://wsbio.waw.pl/
+246,mazowieckie,Wyższa Szkoła Współpracy Międzynarodowej i Regionalnej im. Zygmunta Glogera z siedzibą w Wołominie,Zygmunt Gloger Higher School of International and Regional Cooperation in Wołomin,Private,https://fuaw.pl/
+247,mazowieckie,Wyższa Szkoła Rehabilitacji w Warszawie,Higher School of Rehabilitation in Warsaw,Private,https://www.wsr.edu.pl/
+248,mazowieckie,Europejska Uczelnia w Warszawie,European University in Warsaw,Private,http://www.eu.edu.pl/
+249,mazowieckie,Europejska Uczelnia Społeczno-Techniczna im. Sługi Bożego Roberta Schumana,European Social and Technical University named after Servant of God Robert Schuman,Private,https://www.eust.pl/
+250,mazowieckie,Podkowiańska Wyższa Szkoła Medyczna im. Zofii i Jonasza Łyko w Podkowie Leśnej,Zofia and Jonasz Łyko Podkowian Medical Higher School in Podkowa Leśna,Private,http://pwsm-podkowa.edu.pl/
+251,mazowieckie,Wyższa Szkoła Artystyczna w Warszawie,Higher School of Art in Warsaw,Private,https://wsa.art.pl/
+252,mazowieckie,Uczelnia Społeczno-Medyczna w Warszawie,Social and Medical University in Warsaw,Private,https://usmbm.edu.pl/
+253,mazowieckie,Collegium Masoviense - Wyższa Szkoła Nauk o Zdrowiu w Żyrardowie,Masoviense Collegium - Higher School of Health Sciences in Żyrardów,Private,http://www.cm.edu.pl/
+254,mazowieckie,Pedagogium Wyższa Szkoła Nauk Społecznych w Warszawie,Pedagogium Higher School of Social Sciences in Warsaw,Private,https://pedagogium.pl/
+255,mazowieckie,Warszawska Szkoła Filmowa z siedzibą w Warszawie,Warsaw Film School in Warsaw,Private,https://szkolafilmowa.pl/
+256,mazowieckie,VIAMODA Szkoła Wyższa z siedzibą w Warszawie,VIAMODA Higher School in Warsaw,Private,https://www.viamoda.edu.pl/
+257,mazowieckie,Szkoła Główna Krajowa z siedzibą w Warszawie,Main National School in Warsaw,Private,https://sgk.edu.pl/
+258,mazowieckie,Uczelnia Collegium Intermarium,Collegium Intermarium University,Private,https://collegiumintermarium.org/
+259,opolskie,Akademia Nauk Stosowanych - Wyższa Szkoła Zarządzania i Administracji w Opolu,Academy of Applied Sciences - Higher School of Management and Administration in Opole,Private,https://www.wszia.opole.pl/
+260,opolskie,Wyższa Szkoła Humanistyczno-Ekonomiczna w Brzegu,Higher School of Humanities and Economics in Brzeg,Private,https://wshe.edu.pl/
+261,podkarpackie,Wyższa Szkoła Prawa i Administracji Rzeszowska Szkoła Wyższa z siedzibą w Rzeszowie,WSPiA University of Rzeszów,Private,https://wspia.eu/
+262,podkarpackie,Wyższa Szkoła Informatyki i Zarządzania z siedzibą w Rzeszowie,University of Information Technology and Management in Rzeszow,Private,https://wsiz.edu.pl/
+263,podkarpackie,Wyższa Szkoła Ekonomiczna w Stalowej Woli,WSE Stalowa Wola,Private,http://www.wse.stalowawola.pl/
+264,podkarpackie,Wyższa Szkoła Gospodarki i Zarządzania,Higher School of Economics and Management,Private,http://wsgiz.mielec.pl/
+265,podkarpackie,Podkarpacka Szkoła Wyższa im. bł. ks. Władysława Findysza w Jaśle,Blessed Władysław Findysz Podkarpacka Higher School in Jasło,Private,https://www.psw.jaslo.pl/
+266,podkarpackie,Wyższa Szkoła Informatyki i Zdrowia,University of Information Technology and Health,Private,http://www.collegeinfo.eu/
+267,podkarpackie,Wyższa Szkoła Inżynieryjno-Ekonomiczna w Rzeszowie,Rzeszów Higher School of Engineering and Economics,Private,https://wsie.edu.pl/
+268,podkarpackie,Wyższa Szkoła Społeczno-Gospodarcza,Higher School of Social and Economic Sciences,Private,http://www.wssgprzeworsk.edu.pl/
+269,podlaskie,Wyższa Szkoła Finansów i Zarządzania w Białymstoku,The University of Finance and Management in Bialystok,Private,https://wsfiz.edu.pl/
+270,podlaskie,Wyższa Szkoła Ekonomiczna w Białymstoku,The Bialystok School of Economics,Private,https://www.wse.edu.pl/
+271,podlaskie,Niepaństwowa Wyższa Szkoła Pedagogiczna w Białymstoku,The Non-State Higher School of Pedagogy in Białystok,Private,http://www.nwsp.bialystok.pl/
+272,podlaskie,Międzynarodowa Akademia Nauk Stosowanych w Łomży,The State Academy of Applied Sciences in Łomża,Private,https://mans.edu.pl/
+273,podlaskie,Uczelnia Jańskiego z siedzibą w Łomży,University Jański based in Lomza,Private,https://janski.edu.pl/lomza/
+274,podlaskie,Nadbużańska Szkoła Wyższa im. Marka J. Karpia w Siemiatyczach,Nadbużańska Higher School named after Marek J. Karpi in Siemiatycze,Private,https://nsw.siemiatycze.org/
+275,podlaskie,Wyższa Szkoła Medyczna z siedzibą w Białymstoku,School of Medical Science in Białystok,Private,https://wsmed.edu.pl/
+276,podlaskie,Wyższa Szkoła Zawodowa Ochrony Zdrowia TWP w Łomży z siedzibą w Łomży,Vocational Higher School of Health Protection TWP in Łomża with its seat in Łomża,Private,https://wszoz.edu.pl/
+277,pomorskie,Wyższa Szkoła Administracji i Biznesu im. Eugeniusza Kwiatkowskiego w Gdyni,University of Business and Administration of Eugeniusz Kwiatkowski in Gdynia,Private,https://wsaib.pl/
+278,pomorskie,Wyższa Szkoła Turystyki i Hotelarstwa w Gdańsku,Academy of Tourism and Hotel Management in Gdansk,Private,https://wstih.pl/
+279,pomorskie,Wyższa Szkoła Zdrowia w Gdańsku,Gdansk College of Health,Private,https://www.wsz.pl/
+280,pomorskie,Powiślańska Szkoła Wyższa,Powiślańska Higher School,Private,https://psw.kwidzyn.edu.pl/
+281,pomorskie,Sopocka Akademia Nauk Stosowanych,The State Academy of Applied Sciences in Sopot,Private,https://www.ssw-sopot.pl/
+282,pomorskie,Pomorska Szkoła Wyższa w Starogardzie Gdańskim,Pomorska Higher School in Starogard Gdański,Private,https://psw.stg.pl/
+283,pomorskie,Wyższa Szkoła Społeczno-Ekonomiczna w Gdańsku z siedzibą w Gdańsku,Social and Economic Higher School in Gdańsk with its seat in Gdańsk,Private,https://www.wsse.edu.pl/
+284,pomorskie,Gdańska Szkoła Wyższa z siedzibą w Gdańsku,Gdańsk School of Higher Education,Private,https://gsw.gda.pl/
+285,pomorskie,Gdańska Wyższa Szkoła Humanistyczna,Gdansk Higher School of Humanities,Private,http://www.gwsh.gda.pl/
+286,pomorskie,Wyższa Szkoła Inżynierii Gospodarki w Słupsku,Higher School of Economic Engineering in Słupsk,Private,https://wsig-slupsk.pl/pl
+287,pomorskie,Kaszubsko-Pomorska Szkoła Wyższa w Wejherowie,Kaszubia-Pomerania Higher School in Wejherowo,Private,https://kpsw.pl/
+288,pomorskie,Wyższa Szkoła Komunikacji Społecznej w Gdyni,Higher School of Social Communication in Gdynia,Private,https://wsks.pl/
+289,pomorskie,"Powszechna Wyższa Szkoła Humanistyczna ""Pomerania"" w Chojnicach","General Higher School of Humanities ""Pomerania"" in Chojnice",Private,http://www.pomeraniachojnice.edu.pl/
+290,pomorskie,Ateneum – Akademia Nauk Stosowanych,Ateneum-University in Gdansk,Private,https://www.ateneum.edu.pl/
+291,pomorskie,Wyższa Szkoła Bankowa z siedzibą w Gdańsku,WSB Merito University in Gdansk,Private,https://www.wsb.pl/gdansk/
+292,śląskie,Akademia Polonijna w Częstochowie,Polonia University in Czestochowa,Private,https://ap.edu.pl/
+293,śląskie,Akademia Górnośląska im. Wojciecha Korfantego w Katowicach,Katowice Business University,Private,https://www.gwsh.pl/
+294,śląskie,Polsko-Japońska Akademia Technik Komputerowych,Polish-Japanese Academy of Information Technology,Private,https://pja.edu.pl/
+295,śląskie,Akademia WSB,WSB University,Private,https://wsb.edu.pl/
+296,śląskie,Wyższa Szkoła Finansów i Prawa w Bielsku-Białej,Higher School of Finance and Law in Bielsko-Biała,Private,https://wsfip.edu.pl/
+297,śląskie,Wyższa Szkoła Zarządzania w Częstochowie,Higher School of Management in Częstochowa,Private,https://www.wsz.edu.pl/
+298,śląskie,Bielska Wyższa Szkoła im. Józefa Tyszkiewicza w Bielsku-Białej,Józef Tyszkiewicz Bielska Higher School in Bielsko-Biała,Private,https://tyszkiewicz.edu.pl/
+299,śląskie,Wyższa Szkoła Informatyki i Zarządzania w Bielsku-Białej,Higher School of Informatics and Management in Bielsko-Biała,Private,https://www.wsi.edu.pl/
+300,śląskie,Wyższa Szkoła Lingwistyczna w Częstochowie,WSL in Częstochowa,Private,https://wsl.edu.pl/
+301,śląskie,Wyższa Szkoła Humanitas w Sosnowcu,Humanitas University in Sosnowiec,Private,https://www.humanitas.edu.pl/
+302,śląskie,Wyższa Szkoła Administracji w Bielsku-Białej,Higher School of Administration in Bielsko-Biała,Private,https://wsa.bielsko.pl/
+303,śląskie,Wyższa Szkoła Ekonomiczno-Humanistyczna w Bielsku-Białej,University of Economics and Humanities in Bielsko-Biała,Private,https://wseh.pl/
+304,śląskie,Górnośląska Wyższa Szkoła Przedsiębiorczości im. Karola Goduli w Chorzowie,Karol Godula Upper Silesian School of Entrepreneurship in Chorzów,Private,https://www.gwsp.edu.pl/
+305,śląskie,Wyższa Szkoła Nauk Stosowanych w Rudzie Śląskiej,Higher School of Applied Sciences in Ruda Śląska,Private,https://www.wsnsrs.edu.pl/
+306,śląskie,Wyższa Szkoła Zarządzania Ochroną Pracy w Katowicach,University of Occupational Safety Management in Katowice (WSZOP),Private,https://wszop.edu.pl/
+307,śląskie,Wyższa Szkoła Techniczna w Katowicach,Academy of Silesia,Private,https://www.wst.com.pl/
+308,śląskie,Wyższa Szkoła Planowania Strategicznego w Dąbrowie Górniczej,Higher School of Strategic Planning in Dąbrowa Górnicza,Private,https://wsps.pl/
+309,śląskie,Wyższa Szkoła Technologii Informatycznych w Katowicach,Katowice Institute of Information Technologies,Private,https://wsti.pl/pl/
+310,śląskie,Wyższa Szkoła Medyczna w Sosnowcu,Medical University in Sosnowiec,Private,https://wsmsosnowiec.pl/
+311,śląskie,Śląska Wyższa Szkoła Medyczna w Katowicach,Silesian College of Medicine in Katowice,Private,https://www.swsm.pl/
+312,świętokrzyskie,Wszechnica Świętokrzyska w Kielcach,Holy Cross University in Kielce,Private,https://www.ws.edu.pl/
+313,świętokrzyskie,Wyższa Szkoła Humanistyczno-Przyrodnicza Studium Generale Sandomiriense w Sandomierzu,Higher School of Humanities and Natural Sciences Studium Generale Sandomiriense in Sandomierz,Private,https://wshp-sandomierz.eu/
+314,świętokrzyskie,Akademia Nauk Stosowanych im. Józefa Gołuchowskiego,The Józef Goluchowski University of Applied Sciences,Private,https://www.wsbip.edu.pl/
+315,świętokrzyskie,Akademia Nauk Stosowanych im. prof. Edwarda Lipińskiego w Kielcach,University of Applied Sciences in Kielce,Private,https://www.wseip.edu.pl/
+316,świętokrzyskie,Wyższa Szkoła Administracji Publicznej w Kielcach,Higher School of Public Administration in Kielce,Private,https://wsap-kielce.edu.pl/
+317,świętokrzyskie,Staropolska Akademia Nauk Stosowanych w Kielcach,The Old Polish University,Private,https://stsw.edu.pl/
+318,świętokrzyskie,Wyższa Szkoła Technik Komputerowych i Telekomunikacji w Kielcach,Higher School of Computer Technology and Telecommunications in Kielce,Private,https://wstkt.pl/
+319,świętokrzyskie,Świętokrzyska Szkoła Wyższa w Kielcach,WSE Kielce,Private,https://sswkielce.edu.pl/
+320,świętokrzyskie,Wyższa Szkoła Umiejętności Zawodowych w Pińczowie,Higher School of Vocational Skills in Pińczów,Private,https://www.wsuz.pl/
+321,warmińsko-mazurskie,Olsztyńska Szkoła Wyższa,Olsztyn University,Private,https://www.wsiie.olsztyn.pl/
+322,warmińsko-mazurskie,Akademia Medycznych i Społecznych Nauk Stosowanych,The Academy of Medical and Social Applied Sciences,Private,https://amisns.edu.pl/
+323,wielkopolskie,Wyższa Szkoła Zarządzania i Bankowości w Poznaniu,The School of Management and Banking in Poznań,Private,https://www.wszib.poznan.pl/
+324,wielkopolskie,Wyższa Szkoła Hotelarstwa i Gastronomii w Poznaniu w restrukturyzacji,The Academy of Hotel Management and Catering Industry,Private,https://www.wshig.pl/
+325,wielkopolskie,Wyższa Szkoła Bankowa w Poznaniu,WSB University in Poznań,Private,https://www.wsb.pl/poznan/
+326,wielkopolskie,Collegium Da Vinci z siedzibą w Poznaniu,Collegium Da Vinci,Private,https://cdv.pl/
+327,wielkopolskie,WSHIU Akademia Nauk Stosowanych,WSHIU University,Private,https://wshiu.pl/
+328,wielkopolskie,Wyższa Szkoła Umiejętności Społecznych im. prof. Michała Iwaszkiewicza,Michal Iwaszkiewicz University of Social Sciences ,Private,https://wsus.bip.gov.pl/
+329,wielkopolskie,Wyższa Szkoła Komunikacji i Zarządzania w Poznaniu,University of Communications and Management Poznan,Private,https://www.wskiz.edu/
+330,wielkopolskie,"Wyższa Szkoła Zdrowia, Urody i Edukacji w Poznaniu","Higher School of Health, Beauty, and Education in Poznań",Private,https://wszuie.pl/
+331,wielkopolskie,Wyższa Szkoła Języków Obcych im. Samuela Bogumiła Lindego z siedzibą w Poznaniu,WSJO Poznań,Private,https://www.wsjo.pl/pl/
+332,wielkopolskie,Gnieźnieńska Szkoła Wyższa Milenium z siedzibą w Gnieźnie,Humanistic-Manager Higher School Milenium in Gniezno,Private,https://milenium.edu.pl/
+333,wielkopolskie,Akademia Nauk Stosowanych im. Księcia Mieszka I w Poznaniu,Mieszko I School of Applied Sciences in Poznań,Private,https://ansm.pl/
+334,wielkopolskie,Wyższa Szkoła Edukacji i Terapii im. prof. Kazimiery Milanowskiej z siedzibą w Poznaniu,Kazimiera Milanowska College of Education and Therapy,Private,https://wseit.edu.pl/
+335,wielkopolskie,Wyższa Szkoła Bezpieczeństwa w Poznaniu,The University of Security in Poznan,Private,https://www.wsb.net.pl/
+336,wielkopolskie,Wyższa Szkoła Logistyki w Poznaniu,Poznan School of Logistics,Private,https://wsl.com.pl/pl/
+337,wielkopolskie,Wyższa Szkoła Humanistyczna im. Króla Stanisława Leszczyńskiego w Lesznie,Humanistic Higher School King Stanislas Leszczynski in Leszno,Private,https://www.wshleszno.pl/
+338,wielkopolskie,Wielkopolska Akademia Społeczno - Ekonomiczna w Środzie Wielkopolskiej - Akademia Nauk Stosowanych,WASE in Środa Wielkopolska,Private,https://www.wwsse.pl/
+339,wielkopolskie,Wyższa Szkoła Pedagogiczno-Techniczna w Koninie,Pedagogical and Technical Higher School in Konin,Private,https://www.wspt.pl/
+340,wielkopolskie,Wyższa Szkoła Kadr Menedżerskich,Higher School of Management Personnel,Private,https://www.wskm.edu.pl/
+341,wielkopolskie,Wyższa Szkoła Uni-Terra z siedzibą w Poznaniu,Uni-Terra University in Poznań,Private,https://wsuniterra.pl/
+342,zachodniopomorskie,Zachodniopomorska Szkoła Biznesu w Szczecinie,The West Pomeranian Business School – University of Applied Sciences Szczecin,Private,https://www.zpsb.pl/
+343,zachodniopomorskie,Wyższa Szkoła Administracji Publicznej w Szczecinie,WSAP in Szczecin,Private,https://wsap.szczecin.pl/
+344,zachodniopomorskie,Akademia Nauk Stosowanych Towarzystwa Wiedzy Powszechnej w Szczecinie,The State Academy of Applied Sciences in Szczecin,Private,https://akademiatwp.pl/
+345,zachodniopomorskie,Wyższa Szkoła Integracji Europejskiej w Szczecinie,Academy of European Integration in Szczecin,Private,https://wsie.pl/
+346,zachodniopomorskie,Collegium Balticum - Akademia Nauk Stosowanych z siedzibą w Szczecinie,Collegium Balticum,Private,https://www.cb.szczecin.pl/
+347,zachodniopomorskie,Koszalińska Wyższa Szkoła Nauk Humanistycznych w Koszalinie,Koszalin University of Humanities in Koszalin,Private,http://kwsnh.pl/
